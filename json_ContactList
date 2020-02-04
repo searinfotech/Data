@@ -1,0 +1,62 @@
+[
+ { 
+   "name":"Louis Litt",
+   "preview":"You just got LITT up, Mike.",
+   "avatar":"http://emilcarlsson.se/assets/louislitt.png",
+   "isOnline":true
+ }
+ ,{ 
+   "name":"Harvey Specter",
+   "preview":"Wrong. You take the gun, or you pull out a bigger one. Or, you call their bluff. Or, you do any one of a hundred and forty six other things.",
+   "avatar":"http://emilcarlsson.se/assets/harveyspecter.png",
+   "isOnline":true
+ }
+ ,{ 
+   "name":"Rachel Zane",
+   "preview":"I was thinking that we could have chicken tonight, sounds good?",
+   "avatar":"http://emilcarlsson.se/assets/rachelzane.png",
+   "isOnline":true
+ }
+ ,{ 
+    "name":"Donna Paulsen",
+   "preview":"Mike, I know everything! I'm Donna..",
+   "avatar":"http://emilcarlsson.se/assets/donnapaulsen.png",
+   "isOnline":true
+ }
+ ,{ 
+    "name":"Jessica Pearson",
+   "preview":"Have you finished the draft on the Hinsenburg deal?",
+   "avatar":"http://emilcarlsson.se/assets/jessicapearson.png",
+   "isOnline":true
+ }
+ ,{ 
+    "name":"Harold Gunderson",
+   "preview":"Thanks Mike! :)",
+   "avatar":"http://emilcarlsson.se/assets/haroldgunderson.png",
+   "isOnline":true
+ }
+ ,{ 
+    "name":"Daniel Hardman",
+   "preview":"We'll meet again, Mike. Tell Jessica I said 'Hi'.",
+   "avatar":"http://emilcarlsson.se/assets/danielhardman.png",
+   "isOnline":true
+ }
+ ,{ 
+    "name":"Katrina Bennett",
+   "preview":"I've sent you the files for the Garrett trial.",
+   "avatar":"http://emilcarlsson.se/assets/katrinabennett.png",
+   "isOnline":true
+ }
+ ,{ 
+    "name":"Charles Forstman",
+   "preview":"Mike, this isn't over.",
+   "avatar":"http://emilcarlsson.se/assets/charlesforstman.png",
+   "isOnline":true
+ }
+ ,{ 
+    "name":"Jonathan Sidwell",
+   "preview":"That's bullshit. This deal is solid.",
+   "avatar":"http://emilcarlsson.se/assets/jonathansidwell.png",
+   "isOnline":true
+ }
+]
